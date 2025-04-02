@@ -17,7 +17,7 @@ Clone este repositório e navegue até o diretório do projeto:
 
 ```sh
 git clone https://github.com/AvelinoRSN/desafio-client-server-api.git
-cd seu-repositorio
+
 ```
 
 ## Executando o Servidor
