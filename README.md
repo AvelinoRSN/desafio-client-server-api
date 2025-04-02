@@ -16,7 +16,7 @@ Este projeto consiste em dois sistemas escritos em Go:
 Clone este repositório e navegue até o diretório do projeto:
 
 ```sh
-https://github.com/AvelinoRSN/desafio-client-server-api.git
+git clone https://github.com/AvelinoRSN/desafio-client-server-api.git
 cd seu-repositorio
 ```
 
