@@ -9,7 +9,7 @@ Este projeto consiste em dois sistemas escritos em Go:
 
 - Go instalado ([https://go.dev/dl/](https://go.dev/dl/))
 - SQLite3 instalado
-- SQLite Viewer extensão instalada no VSCODE, para ser possível a visualização dos dados da cotação no banco de dados.
+- SQLite Viewer extensão instalada no VSCode, para ser possível a visualização dos dados da cotação no banco de dados.
 
 ## Instalação
 
